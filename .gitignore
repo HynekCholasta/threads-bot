@@ -1,0 +1,5 @@
+.env
+myenv/
+different versions/
+.dockerignore
+README.Docker.md
