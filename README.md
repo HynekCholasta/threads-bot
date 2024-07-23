@@ -1,0 +1,1 @@
+I created a bot which goes on meta's threads app, logs in, and creates a post using AI and posts it. To uss the bot you need to create a .env file in the same repository and set the enviroment variables, such as the OPENAI_API_KEY, THREADS_USERNAME, THREADS_PASSWORD
